@@ -1,0 +1,8 @@
+Faz download de videos e audios.
+Opções:
+   ---video [URL] Videos na melhor qualidade
+   ---m4a [URL] Audio no formato M4A
+   ---mp3 [URL] Audio no formato MP3
+
+Suporta Multiplas Plataformas.
+Testado em: YouTube, Odysee, TikTok, TokyVideo, Kwai, X/Twitter, SnapChat, FaceBook e sites +18.
